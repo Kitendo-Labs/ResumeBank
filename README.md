@@ -7,7 +7,7 @@ This is a resume/CV bank.
 - Do you think want some exposure for any potential employer?     
 - Do you want some review on what could be amended on your CV?     
 
-If your answer to any of the above is yes? do well to create a pull request with your resume/cv.
+If your answer to any of the above is yes? do well to create a pull request with your resume/cv. Otherwise, you can mail it to us at recruit@kitendo.net
 
 
 ##### Note that this repository is publicly available to everyone and by adding your CV, you consent to other parties having access to it.
